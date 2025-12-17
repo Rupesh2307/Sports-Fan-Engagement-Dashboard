@@ -1,6 +1,5 @@
 # Sports-Fan-Engagement-Dashboard
 Interactive Tableau dashboard analysing sports fan engagement across social media, focusing on sentiment, content type, time trends, and engagement concentration using FIFA and NBA data.
-# Sports Fan Engagement Dashboard (Tableau)
 
 ## Overview
 Interactive Tableau dashboard analysing sports fan engagement using social media data (FIFA + NBA). The dashboard explores how engagement varies by sentiment, content type, time trends, and engagement concentration.
